@@ -1,0 +1,3 @@
+#!/bin/sh
+date >> deploy/index.html
+echo "<br>" >> deploy/index.html
