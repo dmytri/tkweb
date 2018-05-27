@@ -1,0 +1,4 @@
+#!/bin/sh
+date >> index.html
+echo "<br>" >> index.html
+npm run deploy
